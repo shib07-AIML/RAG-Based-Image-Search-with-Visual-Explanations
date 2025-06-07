@@ -23,7 +23,7 @@ These keys are required for:
 
 searchimageproject/
 │
-├── image_search/
+├── image_search/ 
 │ ├── api.py # FastAPI backend (runs on port 8089)
 │ ├── streamlit_ui.py # Streamlit frontend (runs on port 8501)
 │ ├── pinecone_search.py # Search logic using CLIP + Pinecone + OpenAI
