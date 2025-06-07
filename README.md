@@ -38,5 +38,6 @@ searchimageproject/
 
 ## Performance-Oriented Design Highlights
 1.Asynchronous LLM Calls
+2 Parallel processing of user request.
 2.Batch Insertion into Pinecone
 3.Decoupled Data Ingestion Pipeline
