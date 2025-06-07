@@ -1,0 +1,14 @@
+git+https://github.com/openai/CLIP.git
+torch
+Pillow
+numpy
+fastapi
+uvicorn
+streamlit
+openai
+langchain
+langchain-openai
+pinecone-client
+boto3
+requests
+python-dotenv
